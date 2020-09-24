@@ -2,6 +2,9 @@
   text-align:center;
   background-color:blue;
   border:10px blue;
+  /*
+  header and footer 
+  */
 }
 
 .style2 {
@@ -9,23 +12,35 @@
   background: url("images/pattern.jpg"); 
   height: 100%;
   width: 100%;
+  /*
+  full body backround
+  */
 }
 
 h1 {
   font-family: 'verdana';
   font-size: 36px;
   color:white;
+  /*
+  header text only
+  */
 }
 
 h2 {
   font-family: 'verdana';
   font-size: 24px;
+  /*
+  title text
+  */
 }
 
 h3 {
   font-family: 'Times';
   font-size: 16px;
   color:gainsboro;
+  /*
+  used in header and footer
+  */
 }
 
 p {
@@ -42,6 +57,9 @@ p {
   margin: 10px;
   padding: 12px;
   border-radius: 6px;
+  /*
+  clickable button with center spacing
+  */
 }
 
 btn2 {
@@ -52,6 +70,9 @@ btn2 {
   margin: 10px;
   padding: 12px;
   border-radius: 6px;
+  /*
+  button with left orientation
+  */
 }
 
 div {
@@ -59,15 +80,24 @@ div {
   padding-bottom: 25px;
   padding-right: 475px;
   padding-left: 475px;
+  /*
+  spacing for the website
+  */
 }
 
 img {
   padding-top: 50px;
   text-align: center;
+  /*
+  spacing for the image
+  */
 }
 
 hr {
 background-color: black;
 height: 2px;
 width: 800px;
+/*
+  dividing line
+  */
 }
