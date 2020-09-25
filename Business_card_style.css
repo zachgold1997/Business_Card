@@ -62,7 +62,7 @@ p {
   */
 }
 
-btn2 {
+.btn2 {
   display: inline-block;
   font-family: Times;
   font-size: 16px;
@@ -100,4 +100,16 @@ width: 800px;
 /*
   dividing line
   */
+}
+
+a:link {
+background-color: blue
+}
+
+a:visited {
+  background-color: purple
+}
+
+a:hover {
+  background-color: lightskyblue
 }
