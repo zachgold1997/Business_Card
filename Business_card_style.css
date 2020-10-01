@@ -103,13 +103,13 @@ width: 800px;
 }
 
 a:link {
-background-color: blue
+  color: blue
 }
 
 a:visited {
-  background-color: purple
+  color: purple
 }
 
 a:hover {
-  background-color: lightskyblue
+  color: lightskyblue
 }
